@@ -1,0 +1,21 @@
+@layer components {
+  .category-badge {
+    @apply inline-block px-3 py-1 rounded-full text-xs font-semibold mb-2;
+  }
+  
+  .category-badge.cultural {
+    @apply bg-emerald-100 text-emerald-800;
+  }
+  
+  .category-badge.political {
+    @apply bg-blue-100 text-blue-800;
+  }
+  
+  .category-badge.social {
+    @apply bg-purple-100 text-purple-800;
+  }
+  
+  .category-badge.economic {
+    @apply bg-amber-100 text-amber-800;
+  }
+}

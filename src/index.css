@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .left-timeline {
+    @apply w-full;
+  }
+  
+  .right-timeline {
+    @apply w-full;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}

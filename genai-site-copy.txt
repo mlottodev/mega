@@ -1,0 +1,47 @@
+I need help creating a react app landing page that highlights tradition and culture of Esan people from Edo Central Senatorial District. Could you give me copy for the website, specifically with a focus on a nice chronological facts section (I want to have an interactive timeline on the website) can you have some more recent information up to 2024. I need digestible succinct events/info descriptions for the timeline bubbles. Give me maybe 20 - 30 of the most pertinent facts from inception to 2024. Include recent information up to 2024 - prioritize leadership/governorship facts and its effects on culture/tradition.
+
+I need help creating a react app landing page that highlights tradition and culture of Esan people from Edo Central Senatorial District. I want to have an interactive timeline on the website, here are some digestible succinct events/info descriptions for the timeline bubbles,
+
+1. 15th Century Formation: The Esan people emerged in the 15th century when groups from the Benin Empire migrated to establish their own communities and kingdoms, known as eguares.
+2. Cultural Homogeneity: Despite historical conflicts among various Esan kingdoms, the Esan people maintain a largely homogenous culture influenced primarily by the Benin Empire.
+3. Colonial Conquest: In 1897, British colonial forces invaded and took control of Esanland, leading to significant changes in governance and societal structure.
+4. Resistance to Colonial Rule: Notable leaders like King Ogbidi Okojie of Uromi organized resistance against British rule, employing guerrilla tactics until 1906 when Esanland officially became part of British Nigeria.
+5. Independence Movement: Anthony Enahoro, an influential figure from Esanland, played a key role in Nigeria's independence movement, which culminated in Nigeria gaining independence in 1960.
+6. Post-Independence Challenges: Following independence, Esanland faced numerous challenges including civil unrest, infrastructural deficits, and economic struggles.
+7. Cultural Revitalization Efforts (2013): The Association of Esan Professionals conducted a cultural excursion to explore and document traditional practices such as marriage customs and burial rites.
+8. Research on Traditional Institutions (2015): AEP commissioned a study focusing on traditional governance structures, festivals, and cultural heritage sites to promote economic development through cultural awareness.
+9. Establishment of Cultural Festivals: Festivals such as Ihuen and Ukpe serve as vital cultural expressions that reinforce community ties and celebrate historical events within Esanland.
+10. Recognition of Esan Language: The Esan language has been recognized in educational curricula and media broadcasts, promoting cultural identity among younger generations.
+11. Political Leadership (2020): The emergence of notable political leaders from Esanland has influenced local governance and cultural preservation initiatives.
+12. Edo Central Governorship Election (2023): The election of Governor Monday Okpebholo marked a significant political shift in Edo Central, with promises to enhance local governance and cultural initiatives.
+13. Inauguration of Governor Okpebholo (November 12, 2024): Monday Okpebholo was inaugurated as the Governor of Edo State, leading to the declaration of his senatorial seat as vacant by the Nigerian Senate13.
+14. Crisis Response during COVID-19 (2020-2021): Community leaders organized initiatives to support vulnerable populations during the pandemic, showcasing traditional values of solidarity and care.
+15. Cultural Exchange Programs (2023): Programs aimed at promoting cultural exchange between Esanland and other regions have been established to enhance understanding of Esan traditions globally.
+16. Impact of Technology on Cultural Preservation (2024): Digital platforms are being utilized for the documentation and promotion of Esan culture, making it accessible to a wider audience.
+17. Environmental Sustainability Initiatives (2024): Recent efforts have focused on sustainable agricultural practices that align with traditional farming methods to enhance food security in the region.
+18. Youth Engagement in Cultural Activities (2024): Programs encouraging youth participation in traditional festivals have been implemented to foster a sense of pride and continuity within the younger generation.
+19. Inter-Kingdom Collaborations (2024): Recent collaborations among various kingdoms within Esanland aim to strengthen cultural ties and promote joint festivals, enhancing community unity.
+20. Cultural Documentation Projects (2024): Ongoing projects aim to document oral histories and traditional practices to ensure they are passed down to future generations.
+21. Promotion of Traditional Crafts (2024): Initiatives to promote traditional crafts such as Igbulu weaving have gained traction, supporting local artisans and preserving unique cultural expressions.
+22. Annual Cultural Conferences (2024): Conferences focused on discussing the future of Esan culture are being held annually, bringing together scholars, leaders, and community members for dialogue.
+23. Recognition by National Authorities (2024): The federal government has begun recognizing the significance of regional cultures like that of the Esans in national heritage discussions.
+24. Senatorial Seat Vacancy Declaration (December 11, 2024): Following Okpebholo’s inauguration as governor, the Senate declared his former Edo Central Senatorial seat vacant, prompting a call for a bye-election.
+
+
+
+https://aclasses.org/motion-for-nigerian-independence-by-chief-anthony-enahoro-31st-march-1953/
+https://aclasses.org/enahoro/
+https://www.facebook.com/photo/?fbid=5455199414512166&set=a.1511155602249920
+Chief Anthony Eromosele Enahoro leaving the High Court in Lagos after being sentenced to 15 year's imprisonment for plotting to overthrow the Nigerian Government.
+
+During the 1962 crisis in the old Western region, he was detained along with other Action Group members. Accused of treason during the Awolowo alleged coup trial, Enahoro escaped via Ghana to the United Kingdom in 1963, Nigeria requested Enahoro's extradition under the 1881 Fugitive Offenders Act, preventing his application for political asylum.
+
+Early in 1963, the new leader of the Labour party, Harold Wilson, detected the embarrassment caused by Enahoro's arrest and imprisonment. Labour went on the attack in the House of Commons, with support from some Tories, backed by a media furore. He was once one of the best-known Nigerians in Britain.
+
+He was the "fugitive offender" who triggered days of debate in the House of Commons in 1963 as he battled against extradition.
+
+"The Enahoro affair" became an issue of human rights versus the government's pusillanimous wish not to offend Nigeria, and put the Tory prime minister, Harold Macmillan, and his home secretary, Henry Brooke, in a difficult position.
+
+He was extradited from the UK and imprisoned for treason in 1963. In 1966, he was released by the Military Government.
+
+Image Date: 9th September, 1963.
