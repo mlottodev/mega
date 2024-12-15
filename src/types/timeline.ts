@@ -8,7 +8,6 @@ export interface TimelineEventType {
   media?: {
     type: 'image' | 'video';
     url: string;
-    source?: string;
   };
   source?: string;
   source_desc?: string;

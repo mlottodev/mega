@@ -1,7 +1,7 @@
 import { useState, useMemo } from 'react';
-import { TimelineEvent } from '../types/timeline';
+import { TimelineEventType } from '../types/timeline';
 
-export function useTimelineFilter(events: TimelineEvent[]) {
+export function useTimelineFilter(events: TimelineEventType[]) {
   const [activeFilter, setFilter] = useState('all');
 
   const filteredEvents = useMemo(() => {

@@ -1,4 +1,3 @@
-import React from 'react';
 import { TimelineEvent } from './TimelineEvent';
 import { TimelineFilter } from './TimelineFilter';
 import { useTimelineFilter } from '../../hooks/useTimelineFilter';

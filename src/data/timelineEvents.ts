@@ -1,3 +1,5 @@
+import { TimelineEventType } from "@/types/timeline";
+
 export const timelineEvents = [
   {
     year: "15th Century",
@@ -287,4 +289,4 @@ export const timelineEvents = [
     source: "https://princekellyudebhulu.blogspot.com/2015/07/the-history-of-esan-people.html",
     source_desc: "Map of Esanland"
   }
-];
+] as TimelineEventType[];

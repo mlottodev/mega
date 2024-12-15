@@ -1,4 +1,3 @@
-import React from 'react';
 import { TimelineEventType } from '../../types/timeline';
 import { CategoryBadge } from './CategoryBadge';
 

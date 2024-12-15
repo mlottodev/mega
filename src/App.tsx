@@ -1,4 +1,3 @@
-import React from 'react';
 import { PageLayout } from './components/Layout/PageLayout';
 import { Hero } from './components/Hero/Hero';
 import { Timeline } from './components/Timeline/Timeline';

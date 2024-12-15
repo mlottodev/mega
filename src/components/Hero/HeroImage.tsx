@@ -1,5 +1,3 @@
-import React from 'react';
-
 export function HeroImage() {
   return (
     <div className="relative h-[70vh]">

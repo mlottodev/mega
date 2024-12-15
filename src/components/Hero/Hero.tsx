@@ -1,4 +1,3 @@
-import React from 'react';
 import { HeroTitle } from './HeroTitle';
 import { HeroImage } from './HeroImage';
 
