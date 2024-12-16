@@ -2,7 +2,7 @@ import { Scroll } from 'lucide-react';
 
 export function HeroTitle() {
   return (
-    <div className="text-center pt-8 pb-12 bg-white">
+    <div className="text-center pt-8 pb-6 bg-white">
       <div className="max-w-4xl mx-auto px-4">
         <h1 className="text-4xl md:text-4xl font-bold text-gray-900 mb-4">
           Make Esan Great Again

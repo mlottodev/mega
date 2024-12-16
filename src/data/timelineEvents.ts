@@ -115,23 +115,11 @@ export const timelineEvents = [
     description: "Community leaders organized initiatives to support vulnerable populations during the pandemic, showcasing traditional values of solidarity and care.",
     category: "social",
     media: {
-      type: 'video',
-      url: 'https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FEdoStateGovt%2Fvideos%2F186509982736823%2F'
+      type: 'image',
+      url: '/images/covid.jpg'
     },
     source: "https://www.facebook.com/EdoStateGovt/videos/covid-19-ubth-response-team-speak-on-cause-of-deaths-in-edo/186509982736823/",
     source_desc: "COVID-19: UBTH Response Team Speak on Cause of Deaths in Edo"
-  },
-  {
-    year: "2020",
-    title: "Political Leadership",
-    description: "In 2020, notable leaders from Esanland played pivotal roles in shaping local governance and cultural identity in Edo State. Governor Godwin Obaseki, who was re-elected in September 2020, is a prominent figure whose administration focused on infrastructural development and educational reforms that directly benefited the Esan community.",
-    category: "political",
-    media: {
-      type: 'image',
-      url: '/images/Edo-State-Governor.png'
-    },
-    source: "https://www.vanguardngr.com/2020/08/edo-2020-esan-agenda-comes-into-play-in-edo-election/",
-    source_desc: "The Esan Agenda"
   },
   {
     year: "2021",
@@ -147,99 +135,15 @@ export const timelineEvents = [
   },
   {
     year: "2023",
-    title: "Cultural Exchange Programs",
-    description: "Programs aimed at promoting cultural exchange between Esanland and other regions have been established to enhance understanding of Esan traditions globally.",
-    category: "cultural",
-    media: {
-      type: 'image',
-      url: '/images/esan_people.jpg'
-    },
-    source: "https://princekellyudebhulu.blogspot.com/2015/07/the-history-of-esan-people.html",
-    source_desc: "Map of Esanland"
-  },
-  {
-    year: "2023",
     title: "Edo Central Election",
-    description: "The election of Governor Monday Okpebholo marked a significant political shift in Edo Central, with promises to enhance local governance and cultural initiatives.",
+    description: "The election of Governor Monday Okpebholo marked a significant political shift in Edo Central, with promises to enhance local governance and cultural initiatives. His administration is characterized by a 5-point agenda focusing on Security, Infrastructure, Healthcare, Food Sufficiency, and Education, which aims to address the pressing needs of the populace and promote socio-economic development.",
     category: "political",
     media: {
       type: 'image',
-      url: '/images/esan_people.jpg'
+      url: '/images/monday.jpg'
     },
-    source: "https://princekellyudebhulu.blogspot.com/2015/07/the-history-of-esan-people.html",
-    source_desc: "Map of Esanland"
-  },
-  {
-    year: "2024",
-    title: "Digital Cultural Preservation",
-    description: "Digital platforms are being utilized for the documentation and promotion of Esan culture, making it accessible to a wider audience.",
-    category: "technology",
-    media: {
-      type: 'image',
-      url: '/images/esan_people.jpg'
-    },
-    source: "https://princekellyudebhulu.blogspot.com/2015/07/the-history-of-esan-people.html",
-    source_desc: "Map of Esanland"
-  },
-  {
-    year: "2024",
-    title: "Environmental Initiatives",
-    description: "Recent efforts have focused on sustainable agricultural practices that align with traditional farming methods to enhance food security in the region.",
-    category: "environmental",
-    media: {
-      type: 'image',
-      url: '/images/esan_people.jpg'
-    },
-    source: "https://princekellyudebhulu.blogspot.com/2015/07/the-history-of-esan-people.html",
-    source_desc: "Map of Esanland"
-  },
-  {
-    year: "2024",
-    title: "Youth Engagement",
-    description: "Programs encouraging youth participation in traditional festivals have been implemented to foster a sense of pride and continuity within the younger generation.",
-    category: "cultural",
-    media: {
-      type: 'image',
-      url: '/images/esan_people.jpg'
-    },
-    source: "https://princekellyudebhulu.blogspot.com/2015/07/the-history-of-esan-people.html",
-    source_desc: "Map of Esanland"
-  },
-  {
-    year: "2024",
-    title: "Inter-Kingdom Unity",
-    description: "Recent collaborations among various kingdoms within Esanland aim to strengthen cultural ties and promote joint festivals, enhancing community unity.",
-    category: "cultural",
-    media: {
-      type: 'image',
-      url: '/images/esan_people.jpg'
-    },
-    source: "https://princekellyudebhulu.blogspot.com/2015/07/the-history-of-esan-people.html",
-    source_desc: "Map of Esanland"
-  },
-  {
-    year: "2024",
-    title: "Cultural Documentation",
-    description: "Ongoing projects aim to document oral histories and traditional practices to ensure they are passed down to future generations.",
-    category: "cultural",
-    media: {
-      type: 'image',
-      url: '/images/esan_people.jpg'
-    },
-    source: "https://princekellyudebhulu.blogspot.com/2015/07/the-history-of-esan-people.html",
-    source_desc: "Map of Esanland"
-  },
-  {
-    year: "2024",
-    title: "Traditional Crafts Revival",
-    description: "Initiatives to promote traditional crafts such as Igbulu weaving have gained traction, supporting local artisans and preserving unique cultural expressions.",
-    category: "cultural",
-    media: {
-      type: 'image',
-      url: '/images/esan_people.jpg'
-    },
-    source: "https://princekellyudebhulu.blogspot.com/2015/07/the-history-of-esan-people.html",
-    source_desc: "Map of Esanland"
+    source: "https://en.wikipedia.org/wiki/Monday_Okpebholo",
+    source_desc: "Governor Monday Okpebholo"
   },
   {
     year: "2024",
