@@ -115,11 +115,11 @@ export const timelineEvents = [
     description: "Community leaders organized initiatives to support vulnerable populations during the pandemic, showcasing traditional values of solidarity and care.",
     category: "social",
     media: {
-      type: 'image',
-      url: '/images/covid.jpg'
+      type: 'video',
+      url: '/images/covid.mp4'
     },
-    source: "https://www.facebook.com/EdoStateGovt/videos/covid-19-ubth-response-team-speak-on-cause-of-deaths-in-edo/186509982736823/",
-    source_desc: "COVID-19: UBTH Response Team Speak on Cause of Deaths in Edo"
+    source: "https://www.facebook.com/itvradiong/videos/chairman-esan-noth-east-lg-shut-down-uromi-main-market-to-prevent-spread-of-covi/2682124548688694/",
+    source_desc: "COVID-19: Uromi main market shut down to prevent spread of COVID-19"
   },
   {
     year: "2021",

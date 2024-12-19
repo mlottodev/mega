@@ -2,7 +2,7 @@ export function HeroImage() {
   return (
     <div className="relative h-full">
       <img
-          src="/images/landing.png"
+          src="/images/banner2.png"
           className="w-full"
           loading="lazy"
         />

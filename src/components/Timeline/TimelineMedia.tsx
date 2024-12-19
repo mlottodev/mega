@@ -8,17 +8,33 @@ interface TimelineMediaProps {
 }
 
 export function TimelineMedia({ media, alt, source, source_desc }: TimelineMediaProps) {
+  const isLocalVideo = (url: string) => {
+    return url.endsWith('.mp4') || url.endsWith('.webm') || url.endsWith('.ogg');
+  };
+
   return (
     <div className="space-y-2">
       <div className="relative h-full overflow-hidden rounded-lg flex justify-center">
         {media?.type === 'video' ? (
-          <iframe
-            src={media.url}
-            className="object-cover transform hover:scale-105 transition-transform duration-300"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
-            loading="lazy"
-          />
+          isLocalVideo(media.url) ? (
+            <video
+              className="object-cover transform hover:scale-105 transition-transform duration-300 w-[500px] h-[400px]"
+              controls
+              preload="metadata"
+              playsInline
+            >
+              <source src={media.url} type={`video/${media.url.split('.').pop()}`} />
+              Your browser does not support the video tag.
+            </video>
+          ) : (
+            <iframe
+              src={media.url}
+              className="object-cover transform hover:scale-105 transition-transform duration-300 w-[500px] h-[400px]"
+              allow="clipboard-write; encrypted-media; picture-in-picture"
+              allowFullScreen
+              loading="lazy"
+            />
+          )
         ) : (
           <img
             src={media?.url}
