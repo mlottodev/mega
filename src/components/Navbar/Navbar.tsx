@@ -4,6 +4,7 @@ const navItems = [
   { to: '/', label: 'Home' },
   { to: '/manifesto', label: 'Manifesto' },
   { to: '/history', label: 'History' },
+  { to: '/news', label: 'News' },
 ];
 
 export function Navbar() {
@@ -12,13 +13,13 @@ export function Navbar() {
       <div className="max-w-7xl mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-8">
-            <span className="text-white font-bold text-xl">
+            {/* <span className="text-white font-bold text-xl">
               <img
                 src='/images/esan.png'
                 className="h-[50px] w-[60px]"
                 loading="lazy"
               />
-            </span>
+            </span> */}
             <div className="flex space-x-4">
               {navItems.map((item) => (
                 <NavItem key={item.to} {...item} />
