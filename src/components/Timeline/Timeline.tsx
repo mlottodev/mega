@@ -14,7 +14,7 @@ export function Timeline({ events }: TimelineProps) {
     <div className="relative">
       <TimelineFilter activeFilter={activeFilter} onFilterChange={setFilter} />
       
-      <div className="relative max-w-7xl mx-auto px-4 mt-12">
+      <div className="relative max-w-7xl mx-auto px-4 mt-8">
         <div className="relative">
           {filteredEvents.map((event, index) => (
             <TimelineEvent key={index} event={event} index={index} />

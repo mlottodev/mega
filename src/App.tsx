@@ -1,37 +1,24 @@
-import { BrowserRouter } from 'react-router-dom';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { PageLayout } from './components/Layout/PageLayout';
-import { Hero } from './components/Hero/Hero';
 import { Navbar } from './components/Navbar/Navbar';
-import { Timeline } from './components/Timeline/Timeline';
 import { Footer } from './components/Layout/Footer';
-import { timelineEvents } from './data/timelineEvents';
+import { Home } from './pages/Home';
+import { Manifesto } from './pages/Manifesto';
+import { News } from './pages/News';
 
 function App() {
   return (
     <BrowserRouter>
-    <PageLayout>
-      <Navbar />
-      <Hero />
-      
-      <section id="timeline" className="py-20 px-4">
-        <div className="max-w-7xl mx-auto">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl lg:text-4xl font-bold text-gray-900 mb-4">
-              Journey Through Time
-            </h2>
-            <p className="text-lg md:text-xl lg:text-2xl text-gray-600 max-w-2xl mx-auto">
-              Explore the rich history and cultural evolution of the Esan people through centuries of tradition, culture, and resilience that have shaped our identity.
-            </p>
-          </div>
-          
-          <Timeline events={timelineEvents} />
-        </div>
-      </section>
-      
-      <Footer />
-    </PageLayout>
+      <PageLayout>
+        <Navbar />
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/manifesto" element={<Manifesto />} />
+          <Route path="/news" element={<News />} />
+        </Routes>
+        <Footer />
+      </PageLayout>
     </BrowserRouter>
-
   );
 }
 

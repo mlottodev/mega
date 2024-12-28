@@ -3,7 +3,7 @@ import { NavItem } from './NavItem';
 const navItems = [
   { to: '/', label: 'Home' },
   { to: '/manifesto', label: 'Manifesto' },
-  { to: '/history', label: 'History' },
+  { to: '/#timeline', label: 'History' },
   { to: '/news', label: 'News' },
 ];
 

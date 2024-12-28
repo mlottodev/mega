@@ -10,7 +10,7 @@ export function TimelineFilter({ activeFilter, onFilterChange }: TimelineFilterP
 
   return (
     <div className="overflow-x-auto -mx-4 px-4">
-      <div className="flex justify-start md:justify-center gap-2 mb-8 md:mb-12 min-w-max">
+      <div className="flex justify-center gap-2 mb-8 md:mb-12 min-w-max">
         {filters.map((filter) => (
           <button
             key={filter}

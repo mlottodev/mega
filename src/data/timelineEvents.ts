@@ -145,52 +145,52 @@ export const timelineEvents = [
     source: "https://en.wikipedia.org/wiki/Monday_Okpebholo",
     source_desc: "Governor Monday Okpebholo"
   },
-  {
-    year: "2024",
-    title: "Cultural Conferences",
-    description: "Conferences focused on discussing the future of Esan culture are being held annually, bringing together scholars, leaders, and community members for dialogue.",
-    category: "cultural",
-    media: {
-      type: 'image',
-      url: '/images/esan_people.jpg'
-    },
-    source: "https://princekellyudebhulu.blogspot.com/2015/07/the-history-of-esan-people.html",
-    source_desc: "Map of Esanland"
-  },
-  {
-    year: "2024",
-    title: "National Recognition",
-    description: "The federal government has begun recognizing the significance of regional cultures like that of the Esans in national heritage discussions.",
-    category: "political",
-    media: {
-      type: 'image',
-      url: '/images/esan_people.jpg'
-    },
-    source: "https://princekellyudebhulu.blogspot.com/2015/07/the-history-of-esan-people.html",
-    source_desc: "Map of Esanland"
-  },
+  // {
+  //   year: "2024",
+  //   title: "Cultural Conferences",
+  //   description: "Conferences focused on discussing the future of Esan culture are being held annually, bringing together scholars, leaders, and community members for dialogue.",
+  //   category: "cultural",
+  //   media: {
+  //     type: 'image',
+  //     url: '/images/esan_people.jpg'
+  //   },
+  //   source: "https://princekellyudebhulu.blogspot.com/2015/07/the-history-of-esan-people.html",
+  //   source_desc: "Map of Esanland"
+  // },
+  // {
+  //   year: "2024",
+  //   title: "National Recognition",
+  //   description: "The federal government has begun recognizing the significance of regional cultures like that of the Esans in national heritage discussions.",
+  //   category: "political",
+  //   media: {
+  //     type: 'image',
+  //     url: '/images/esan_people.jpg'
+  //   },
+  //   source: "https://princekellyudebhulu.blogspot.com/2015/07/the-history-of-esan-people.html",
+  //   source_desc: "Map of Esanland"
+  // },
+  // {
+  //   year: "November 2024",
+  //   title: "Gubernatorial Inauguration",
+  //   description: "Monday Okpebholo was inaugurated as the Governor of Edo State, leading to the declaration of his senatorial seat as vacant by the Nigerian Senate.",
+  //   category: "political",
+  //   media: {
+  //     type: 'image',
+  //     url: '/images/esan_people.jpg'
+  //   },
+  //   source: "https://princekellyudebhulu.blogspot.com/2015/07/the-history-of-esan-people.html",
+  //   source_desc: "Map of Esanland"
+  // },
   {
     year: "November 2024",
-    title: "Gubernatorial Inauguration",
-    description: "Monday Okpebholo was inaugurated as the Governor of Edo State, leading to the declaration of his senatorial seat as vacant by the Nigerian Senate.",
-    category: "political",
-    media: {
-      type: 'image',
-      url: '/images/esan_people.jpg'
-    },
-    source: "https://princekellyudebhulu.blogspot.com/2015/07/the-history-of-esan-people.html",
-    source_desc: "Map of Esanland"
-  },
-  {
-    year: "December 2024",
     title: "Senatorial Seat Vacancy",
-    description: "Following Okpebholo's inauguration as governor, the Senate declared his former Edo Central Senatorial seat vacant, prompting a call for a bye-election.",
+    description: "Following Okpebholo's inauguration as governor, the Senate declared his former Edo Central Senatorial seat vacant, prompting a call for a bye-election. Strong candidates like Mr. Marcel Eromonsele Imoisili emerge to fill the position.",
     category: "political",
     media: {
       type: 'image',
-      url: '/images/esan_people.jpg'
+      url: '/images/candidate.jpg'
     },
-    source: "https://princekellyudebhulu.blogspot.com/2015/07/the-history-of-esan-people.html",
-    source_desc: "Map of Esanland"
+    source: "",
+    source_desc: "Mr. Marcel Eromonsele Imoisili emerges as a candidate"
   }
 ] as TimelineEventType[];
