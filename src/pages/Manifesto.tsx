@@ -54,7 +54,7 @@ export function Manifesto() {
             <div className="space-y-6">
               <div>
                 <h4 className="text-xl font-semibold text-emerald-600">1. Security</h4>
-                <ul>
+                <ul className="list-disc ml-8">
                   <li>Advocate for comprehensive police reforms to restore trust and efficiency.</li>
                   <li>Infuse technology into our security architecture with communication gadgets.</li>
                   <li>Secure funding for patrol vehicles for effective security for all.</li>
@@ -63,7 +63,7 @@ export function Manifesto() {
   
               <div>
                 <h4 className="text-xl font-semibold text-emerald-600">2. Agro-Based Industries and Technological Advancement</h4>
-                <ul>
+                <ul className="list-disc ml-8">
                   <li>Develop agro-based industries to process cassava, palm produce, yams, and other crops abundant in Edo Central.</li>
                   <li>Leverage technology as an enabler to revolutionize farming practices and expand access to global markets.</li>
                   <li>Work to ensure farmers receive subsidized inputs, improved seeds, and support for mechanized farming.</li>
@@ -72,7 +72,7 @@ export function Manifesto() {
   
               <div>
                 <h4 className="text-xl font-semibold text-emerald-600">3. Education and Youth Empowerment</h4>
-                <ul>
+                <ul className="list-disc ml-8">
                   <li>Prioritize federal support for schools, focus on rejigging our curriculum to include computer science from primary education, vocational training centers, and scholarships to ensure quality education for every child.</li>
                   <li>Establish technology hubs and innovation centers to prepare our youth for the future of work.</li>
                   <li>Drive initiatives to create sustainable employment opportunities for graduates and skilled youth.</li>
@@ -81,7 +81,7 @@ export function Manifesto() {
   
               <div>
                 <h4 className="text-xl font-semibold text-emerald-600">4. Infrastructure and Industrial Development</h4>
-                <ul>
+                <ul className="list-disc ml-8">
                   <li>Attract federal projects to Edo Central to build roads, bridges, and modern transportation networks.</li>
                   <li>Partner with the private sector to establish industrial zones, with a focus on agro-processing and technology-driven industries.</li>
                   <li>Advocate for the completion of stalled federal projects in our senatorial district.</li>
@@ -90,7 +90,7 @@ export function Manifesto() {
   
               <div>
                 <h4 className="text-xl font-semibold text-emerald-600">5. Unlocking Access to Capital for Economic Growth</h4>
-                <ul>
+                <ul className="list-disc ml-8">
                   <li>Push for legislation to create equity finance and guaranteed loans at single-digit interest rates to empower small and medium-sized enterprises (SMEs).</li>
                   <li>Establish a Senatorial Entrepreneurship Fund to support businesses and startups in Edo Central.</li>
                   <li>Partner with local financial institutions and international agencies to drive investment in our region.</li>
@@ -99,7 +99,7 @@ export function Manifesto() {
   
               <div>
                 <h4 className="text-xl font-semibold text-emerald-600">6. Healthcare for All</h4>
-                <ul>
+                <ul className="list-disc ml-8">
                   <li>Push for the establishment of federal medical centers in Edo Central, ensuring accessible healthcare for all.</li>
                   <li>Advocate for subsidized healthcare services for women, children, and the elderly.</li>
                   <li>Partner with health-focused NGOs to promote awareness and early detection of diseases.</li>
@@ -108,7 +108,7 @@ export function Manifesto() {
   
               <div>
                 <h4 className="text-xl font-semibold text-emerald-600">7. Restoring Unity and Pride in Edo Central's Voice</h4>
-                <ul>
+                <ul className="list-disc ml-8">
                   <li>Represent Edo Central's interest boldly and unapologetically in all national matters.</li>
                   <li>Ensure equitable distribution of resources and opportunities for our people.</li>
                   <li>Build alliances with other senators to drive national attention to Edo Central's needs.</li>
@@ -129,7 +129,7 @@ export function Manifesto() {
                 Fellow citizens of Edo Central, the time has come to stand together and demand the representation we deserve. Let us rise to the occasion and take our rightful place in the Senate with leadership that prioritizes YOU—your dreams, your welfare, and your future.
               </p>
               <p className="font-semibold mt-4">Together, we will:</p>
-              <ul>
+              <ul className="list-disc ml-8">
                 <li>Redefine true people-oriented representation.</li>
                 <li>Transform Edo Central into a hub of opportunity and development.</li>
                 <li>Build a legacy of bold leadership for generations to come.</li>
